@@ -1,3 +1,29 @@
+# Rabban's Gym 
+
+React.js website for a fictional weightlifting gym
+
+Made in: React.js 
+
+Features: fully developed responsive website, along with original logo design, copywritting and branding. 
+One page website with slick and modern design, powerful color scheme of black background, red accents and white text excerts power and intensiti fitting for the brand of weightlifting sport. 
+Added smooth scrolling functionality.
+Scroll to top button which appears on the bottom-right corner of the screen after the user has scrolled pass the Home section. 
+Cookie consent popup included.
+
+Website includes: 
+Home section - with title, tagline and a call to action button.
+Features section - lists services provided by the gym.
+About us section - tells a brand's story, it's origins and what it stands for.
+Offer section - features special discount offer and a call to action button. 
+Premium Gear section - is a catalogue of fictional products offered by the gym, featuring a pictures of a products, title, short description and a price tag. 
+Last call section - features an offer and a call to action
+Contact form - features an E-mail contact form for potential clients or business inqueries. 
+Footer - features fictional contact information, location, E-mail address, telephone number, working hours and all to action to follow on additional social media platforms. 
+
+Name "Rabban's Gym" stems from a fictional character "the Beast" Rabban, created by writter Frank Herbert in his science fiction book "Dune". 
+Beast Rabban is known for his imposing physical strength and prowess.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
